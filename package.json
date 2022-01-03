@@ -1,0 +1,27 @@
+{
+  "name": "Overwatch",
+  "version": "1.0.0",
+  "description": "Overwatch 캐릭터 선택",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejungho9/Overwatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leejungho9/Overwatch/issues"
+  },
+  "homepage": "https://github.com/leejungho9/Overwatch#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "sass": "^1.45.2"
+  }
+}
